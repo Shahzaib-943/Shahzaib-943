@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Vue JS**
 
-- 💬 Ask me about **PHP/Larave, VueJs, MySQL DB**
+- 💬 Ask me about **PHP/Laravel, VueJs, MySQL DB**
 
 - 📫 How to reach me **ranashahzaib943@gmail.com**
 
